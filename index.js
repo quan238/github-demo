@@ -5,3 +5,6 @@ const user = [
     { id: 4, name: 'Jane Smith', email: '' },
     { id: 5, name: 'John Doe', email: '' },
 ]
+
+const inputEmail = document.getElementById("#name")
+const inputPassword = document.getElementById("#password")
